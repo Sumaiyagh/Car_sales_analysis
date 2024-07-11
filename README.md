@@ -4,6 +4,13 @@
 
 The Car Sales Analysis project provides insights into car sales data using Power BI and MySQL. It includes data cleaning, transformation, and visualization to understand sales trends, customer preferences, and dealership performance.
 
+![Overview](overview.png)
+![Screenshot 2024-06-06 233630](https://github.com/Sumaiyagh/Car_sales_analysis/assets/130544328/c74c551c-ee72-46eb-936a-a95d8690a1d0)
+
+![Detailed_View](Detailed_view.png)
+![Screenshot 2024-06-06 235120](https://github.com/Sumaiyagh/Car_sales_analysis/assets/130544328/e2b6ab2f-4f21-4556-9c22-5475a72aef86)
+
+
 ## Objectives
 
 - **Analyze car sales trends and patterns.**
