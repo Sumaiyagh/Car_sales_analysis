@@ -11,6 +11,10 @@ The Car Sales Analysis project provides insights into car sales data using Power
 - **Evaluate dealership performance.**
 - **Provide actionable insights via interactive visualizations.**
 
+## Data Source
+
+- **Excel** - [Download here](data/car_sales.xlsx)
+
 ## Tools and Technologies
 
 - **Power BI:** Data visualization and dashboards.
