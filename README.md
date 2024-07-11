@@ -13,7 +13,7 @@ The Car Sales Analysis project provides insights into car sales data using Power
 
 ## Data Source
 
-- **Excel** - [Download here](data/car_sales.xlsx)
+- **Excel** - [Download here](/car_sales.xlsx)
 
 ## Tools and Technologies
 
